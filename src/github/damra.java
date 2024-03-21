@@ -1,7 +1,7 @@
 package github;
 
-public class murat {
+public class damra {
     public static void main(String[] args) {
-        System.out.println("m v1");
+        System.out.println("d v1");
     }
 }
